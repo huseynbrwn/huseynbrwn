@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @huseynbrwn
+- 👀 I’m interested in programming, cosmology, and robotics.
+- 🌱 I’m currently learning Java.
